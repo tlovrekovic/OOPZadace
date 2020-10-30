@@ -1,0 +1,9 @@
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\bin\Debug\netstandard2.0\HomeworkLibrary.deps.json
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\bin\Debug\netstandard2.0\HomeworkLibrary.dll
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\bin\Debug\netstandard2.0\HomeworkLibrary.pdb
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.csprojAssemblyReference.cache
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.AssemblyInfoInputs.cache
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.AssemblyInfo.cs
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.dll
+C:\Users\tomis\source\repos\homework\HomeworkLibrary\obj\Debug\netstandard2.0\HomeworkLibrary.pdb
