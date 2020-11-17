@@ -13,7 +13,7 @@ namespace HomeworkLibrary
             {
                 for (int j = 0; j < n - 1; j++)
                 {
-                    if (episodes[j].GetAverageScore() < episodes[j + 1].GetAverageScore()) {
+                    if (episodes[j] < episodes[j + 1]) {
                         Episode temp = episodes[j];
                         episodes[j] = episodes[j + 1];
                         episodes[j + 1] = temp;
